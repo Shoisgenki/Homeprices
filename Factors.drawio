@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T08:16:26.506Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="DhaEx87M_wgeEFzcSklT" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T08:19:14.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="Xgwst5zVD1l0zpjuqGZQ" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -509,6 +509,9 @@
             <mxPoint x="600" y="570" as="sourcePoint" />
             <mxPoint x="600" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qLsqeKINByvR6Ij-18cb-0" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;FLOWCHART OF ALL FACTORS AFFECTING U.S. HOUSING PRICE IN THE NEXT 10 YEARS IN MECE FRAMEWORK&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327" y="1080" width="1000" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
